@@ -1,1 +1,1 @@
-# CSCI-5622-Machine-Learning-Assignments
+# Machine-Learning-Assignments
